@@ -18,3 +18,4 @@
 17-hidethisword: displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18-Letters_only_please: all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters as well.
 21-reverse: reverses its input.
+22-users_and_homes: displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
